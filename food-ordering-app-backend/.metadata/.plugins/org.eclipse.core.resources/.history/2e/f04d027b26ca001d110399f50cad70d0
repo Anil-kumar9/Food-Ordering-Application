@@ -1,0 +1,18 @@
+package com.food.adminservice.dto;
+
+import javax.validation.constraints.Email;
+import javax.validation.constraints.NotBlank;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+public class AdminDto {
+	@Email(message = "Please enter a valid email address")
+	@NotBlank(message = "email can not be blank")
+	private String email;
+	private String passwordString;
+}

@@ -1,0 +1,5 @@
+package com.food.adminservice.service;
+
+public interface AdminService {
+
+}

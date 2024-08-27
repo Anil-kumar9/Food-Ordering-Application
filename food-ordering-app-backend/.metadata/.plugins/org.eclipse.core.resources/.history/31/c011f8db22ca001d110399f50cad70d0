@@ -1,0 +1,5 @@
+package com.food.adminservice.feign;
+
+public class RestauranProxyService {
+
+}

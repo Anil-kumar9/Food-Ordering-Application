@@ -1,0 +1,17 @@
+package com.food.adminservice.service;
+
+import org.springframework.http.ResponseEntity;
+
+import com.food.adminservice.dto.AdminDto;
+
+public interface AdminService {
+
+	Object showRestaurants();
+
+	Object changeRestaurantStatus(Long id);
+
+	Object deleteRestaurant(Long id);
+
+	ResponseEntity<String> login(AdminDto adminDto);
+
+}

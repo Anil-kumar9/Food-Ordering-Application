@@ -1,0 +1,29 @@
+package com.food.adminservice.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+import lombok.RequiredArgsConstructor;
+
+@RestController
+@RequiredArgsConstructor
+@RequestMapping("/api/v1/admin")
+public class AdminController {
+    private final AdminService adminService;
+
+    @GetMapping(value = "/showRestaurants")
+    public ResponseEntity<Object> showRestaurants(){
+        return ResponseEntity.ok(adminService.showRestaurants());
+    }
+    @PatchMapping(value="/changeRestaurantStatus")
+    public ResponseEntity<Object> changeRestaurantStatus(@RequestParam("id") Long id){
+        return ResponseEntity.ok(adminService.changeRestaurantStatus(id));
+    }
+    @DeleteMapping(value = "/deleteRestaurant")
+    public ResponseEntity<Object> deleteRestaurant(@RequestParam("id") Long id){
+        return ResponseEntity.ok(adminService.deleteRestaurant(id));
+    }
+    @PostMapping(value = "/login")
+    public ResponseEntity Login(@RequestBody Map<String,String> map){
+        return adminService.login(map.get("username"),map.get("password"));
+    }
+}

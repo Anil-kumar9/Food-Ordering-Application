@@ -1,0 +1,18 @@
+package com.food.adminservice.service;
+
+import org.springframework.http.ResponseEntity;
+
+import com.food.adminservice.dto.AdminDto;
+import com.food.adminservice.exception.ResourceNotFoundException;
+
+public interface AdminService {
+
+	Object showRestaurants() throws ResourceNotFoundException;
+
+	Object changeRestaurantStatus(Long id);
+
+	Object deleteRestaurant(Long id);
+
+	ResponseEntity<String> login(AdminDto adminDto);
+
+}

@@ -1,0 +1,198 @@
+!SESSION 2023-03-29 11:28:34.819 -----------------------------------------------
+eclipse.buildId=4.15.1.202206171354
+java.version=17.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/AQ20408728/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -data /Users/AQ20408728/Documents/VsCode Workspace/food-ordering-app-backend -product org.springframework.boot.ide.branding.sts4 -keyring /Users/AQ20408728/.eclipse_keyring
+
+This is a continuation of log file /Users/AQ20408728/Documents/VsCode Workspace/food-ordering-app-backend/.metadata/.bak_0.log
+Created Time: 2023-03-29 16:05:31.582
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.585
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.KkSZWcuwisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.587
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.590
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.590
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.590
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.KkSZWcuw => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.592
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.622
+!MESSAGE classpath=159 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.624
+!MESSAGE buffering callback sts4.classpath.KkSZWcuw api-gateway false 159
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.630
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.638
+!MESSAGE classpath=170 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.640
+!MESSAGE buffering callback sts4.classpath.KkSZWcuw admin-service false 170
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.640
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.645
+!MESSAGE classpath=194 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.646
+!MESSAGE buffering callback sts4.classpath.KkSZWcuw cart-service false 194
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.647
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.660
+!MESSAGE classpath=129 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.661
+!MESSAGE buffering callback sts4.classpath.KkSZWcuw config-server false 129
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.662
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.667
+!MESSAGE classpath=130 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.673
+!MESSAGE buffering callback sts4.classpath.KkSZWcuw eureka-server false 130
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.675
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.689
+!MESSAGE classpath=209 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.692
+!MESSAGE buffering callback sts4.classpath.KkSZWcuw food-item-service false 209
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.692
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.701
+!MESSAGE classpath=221 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.703
+!MESSAGE buffering callback sts4.classpath.KkSZWcuw order-service false 221
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.703
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.715
+!MESSAGE classpath=195 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.717
+!MESSAGE buffering callback sts4.classpath.KkSZWcuw restaurant-service false 195
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.717
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.723
+!MESSAGE classpath=170 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.724
+!MESSAGE buffering callback sts4.classpath.KkSZWcuw user-service false 170
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:31.725
+!MESSAGE executing callback sts4.classpath.KkSZWcuw 9 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:05:33.465
+!MESSAGE executing callback sts4.classpath.KkSZWcuw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:46:52.412
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:46:52.425
+!MESSAGE classpath=158 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:46:52.428
+!MESSAGE buffering callback sts4.classpath.KkSZWcuw api-gateway false 158
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:46:52.428
+!MESSAGE executing callback sts4.classpath.KkSZWcuw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:46:52.531
+!MESSAGE executing callback sts4.classpath.KkSZWcuw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:47:03.799
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:47:03.813
+!MESSAGE classpath=158 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:47:03.816
+!MESSAGE buffering callback sts4.classpath.KkSZWcuw api-gateway false 158
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:47:03.819
+!MESSAGE executing callback sts4.classpath.KkSZWcuw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 16:47:03.988
+!MESSAGE executing callback sts4.classpath.KkSZWcuw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2023-03-29 16:50:44.141
+!MESSAGE Cannot invoke "String.length()" because "typeSignature" is null
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "String.length()" because "typeSignature" is null
+	at org.eclipse.jdt.internal.compiler.parser.TypeConverter.createTypeReference(TypeConverter.java:145)
+	at org.eclipse.jdt.internal.core.BinaryTypeConverter.createTypeReference(BinaryTypeConverter.java:366)
+	at org.eclipse.jdt.internal.core.BinaryTypeConverter.convert(BinaryTypeConverter.java:214)
+	at org.eclipse.jdt.internal.core.BinaryTypeConverter.convert(BinaryTypeConverter.java:330)
+	at org.eclipse.jdt.internal.core.BinaryTypeConverter.buildTypeDeclaration(BinaryTypeConverter.java:111)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.selectType(SelectionEngine.java:1648)
+	at org.eclipse.jdt.internal.core.NamedMember.resolveType(NamedMember.java:328)
+	at org.eclipse.jdt.internal.core.NamedMember.resolveType(NamedMember.java:270)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.resolveFQName(JavaData.java:523)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.fillTypeDescriptorData(JavaData.java:294)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.fillTypeData(JavaData.java:302)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.createTypeData(JavaData.java:276)
+	at org.springframework.tooling.jdt.ls.commons.java.JavaData.typeData(JavaData.java:69)
+	at org.springframework.tooling.ls.eclipse.commons.STS4LanguageClientImpl.lambda$16(STS4LanguageClientImpl.java:499)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1760)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 17:40:44.732
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 17:40:44.743
+!MESSAGE classpath=141 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 17:40:44.744
+!MESSAGE buffering callback sts4.classpath.KkSZWcuw api-gateway false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 17:40:44.745
+!MESSAGE executing callback sts4.classpath.KkSZWcuw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 17:40:44.876
+!MESSAGE executing callback sts4.classpath.KkSZWcuw SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 17:40:53.560
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 17:40:53.570
+!MESSAGE classpath=141 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 17:40:53.575
+!MESSAGE buffering callback sts4.classpath.KkSZWcuw api-gateway false 141
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 17:40:53.576
+!MESSAGE executing callback sts4.classpath.KkSZWcuw 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-03-29 17:40:53.628
+!MESSAGE executing callback sts4.classpath.KkSZWcuw SUCCESS [done]

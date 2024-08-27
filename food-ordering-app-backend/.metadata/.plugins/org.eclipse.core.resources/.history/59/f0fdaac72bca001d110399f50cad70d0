@@ -1,0 +1,5 @@
+package com.food.adminservice.exception;
+
+public class ExceptionController {
+
+}

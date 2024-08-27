@@ -1,0 +1,42 @@
+package com.food.adminservice.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Service;
+
+import com.food.adminservice.dto.AdminDto;
+import com.food.adminservice.feign.RestauranProxyService;
+
+import lombok.RequiredArgsConstructor;
+
+@Service
+@RequiredArgsConstructor
+public class AdminServiceImpl implements AdminService {
+	
+    private final RestauranProxyService restauranProxyService;
+	
+	@Override
+	public Object showRestaurants() {
+	
+		return null;
+	}
+
+	@Override
+	public Object changeRestaurantStatus(Long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Object deleteRestaurant(Long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ResponseEntity<String> login(AdminDto adminDto) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.food.adminservice.dto;
+
+public class AdminDto {
+
+}
