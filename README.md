@@ -57,7 +57,7 @@
      1. Admin manages the new restuarnt approvals and rejects based on business discussions.
      2. Admin can change the restuarnt approval status.
 
-# Technolofies Used
+# Technologies Used
   1. BackEnd - 8 Services
      1. Java 11
      2. Spring with Maven
