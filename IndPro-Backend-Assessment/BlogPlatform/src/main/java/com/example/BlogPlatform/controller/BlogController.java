@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.example.BlogPlatform.enitty.Comment;
 import com.example.BlogPlatform.enitty.Post;
+import com.example.BlogPlatform.enitty.PostDto;
 import com.example.BlogPlatform.service.BlogService;
 
 @RestController
@@ -31,7 +32,7 @@ public class BlogController {
 	}
 	
 	@GetMapping("/posts/{id}/comments")
-	public List<Comment> getAllComments(@PathVariable int id){
+	public PostDto getAllComments(@PathVariable int id){
 		return service.fetchAllComments(id);
 	}
 }

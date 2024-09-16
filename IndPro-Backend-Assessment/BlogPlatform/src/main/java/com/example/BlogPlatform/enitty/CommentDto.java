@@ -13,17 +13,15 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-@Entity
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
-public class Comment {
+public class CommentDto {
 	@Id
 	private int id;
 	
 	private String content;
 	private int authorid;
-	private int postid;
 	@CreationTimestamp
 	private LocalDateTime createdAt;
 	

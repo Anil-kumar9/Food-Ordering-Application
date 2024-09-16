@@ -24,7 +24,7 @@ public class Post {
 	private int id;
 	private String title;
 	private String content;
-	private int autherId;
+	private int authorid;
 	@CreationTimestamp
 	private LocalDateTime createdAt;
 	
