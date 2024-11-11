@@ -1,5 +1,0 @@
-package com.food.apigateway.controller;
-
-public class FallbackController {
-
-}

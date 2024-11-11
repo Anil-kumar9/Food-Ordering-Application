@@ -1,5 +1,0 @@
-package com.food.adminservice.dto.config;
-
-public class WebMvcConfig {
-
-}

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename package &apos;com.food.cartservice.entity&apos; to &apos;com.food.cartservice.model&apos;&#x0A;- Original project: &apos;cart-service&apos;&#x0A;- Original element: &apos;cart-service/src/main/java/com.food.cartservice.entity&apos;&#x0A;- Renamed element: &apos;cart-service/src/main/java/com.food.cartservice.model&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.food.cartservice.entity&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.food.cartservice.entity" name="com.food.cartservice.model" qualified="false" references="true" stamp="1679647390025" textual="false" version="1.0"/>
-</session>

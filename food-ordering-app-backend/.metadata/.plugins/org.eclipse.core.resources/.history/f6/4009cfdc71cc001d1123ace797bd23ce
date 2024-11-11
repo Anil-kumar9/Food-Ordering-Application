@@ -1,5 +1,0 @@
-package com.food.orderservice.feign;
-
-public interface RestaurantProxyService {
-
-}

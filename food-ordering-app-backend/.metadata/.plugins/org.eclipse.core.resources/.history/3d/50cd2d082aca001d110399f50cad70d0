@@ -1,5 +1,0 @@
-package com.food.adminservice.repository;
-
-public interface AdminRepository {
-
-}
